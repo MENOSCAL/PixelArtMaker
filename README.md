@@ -1,17 +1,17 @@
 # Pixel Art Maker
 
-Built a single-page web app that allows users to draw pixel art on a customizable canvas.
-Designed to interact with DOM and event listeners to create user interfaces.
+* Built a single-page web app that allows users to draw pixel art on a customizable canvas.
+* Designed to interact with DOM and event listeners to create user interfaces.
 
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Creator](#creators)
+* [Creators](#creators)
 
 ## Instructions
 
-* clone the project
-* open the index file in a browser
+* Clone project
+* Open the index file in the browser
 
 ## Creators
 
